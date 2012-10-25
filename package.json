@@ -1,7 +1,7 @@
 {
   "name": "daobao"
   , "description": "Dispatcher for Express route generators. (initially developed for use with Chungking controllers and Railway-routes."
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "main": "./lib/index"
   , "dependencies": {
   }
