@@ -14,4 +14,7 @@
     , "email": "olalonde@gmail.com"
     , "url": "http://www.syskall.com"
   }
+  , "dependencies" : {
+    "JSONPath" : "0.9.0"
+  }
 }
