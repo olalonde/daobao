@@ -1,10 +1,10 @@
 {
   "name": "daobao",
   "description": "Dispatcher for Express route generators. (initially developed for use with Chungking controllers and Railway-routes.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "./lib/index",
   "dependencies": {
-    "JSONPath": "0.9.1",
+    "JSONPath": "0.9.0",
     "debug": "~0.7.2"
   },
   "repository": {
