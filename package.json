@@ -1,20 +1,19 @@
 {
-  "name": "daobao"
-  , "description": "Dispatcher for Express route generators. (initially developed for use with Chungking controllers and Railway-routes."
-  , "version": "0.0.6"
-  , "main": "./lib/index"
-  , "dependencies": {
-  }
-  , "repository": {
+  "name": "daobao",
+  "description": "Dispatcher for Express route generators. (initially developed for use with Chungking controllers and Railway-routes.",
+  "version": "0.0.6",
+  "main": "./lib/index",
+  "dependencies": {
+    "JSONPath": "0.9.1",
+    "debug": "~0.7.2"
+  },
+  "repository": {
     "type": "git",
     "url": "git://github.com/olalonde/daobao.git"
-  }
-  , "author": {
-    "name": "Olivier Lalonde"
-    , "email": "olalonde@gmail.com"
-    , "url": "http://www.syskall.com"
-  }
-  , "dependencies" : {
-    "JSONPath" : "0.9.0"
+  },
+  "author": {
+    "name": "Olivier Lalonde",
+    "email": "olalonde@gmail.com",
+    "url": "http://www.syskall.com"
   }
 }
